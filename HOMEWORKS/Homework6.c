@@ -210,3 +210,4 @@ void get (char l[MAX],char p[MAX],char u[MAX])
     p[c]='\0';
     int length2 = strlen(p);
 }
+
