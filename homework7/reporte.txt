@@ -1,0 +1,10 @@
+Reporte generado el Jueves 6/5/2021
+El trabajador con el pin <1> entro a la hora: <3:22:40> el dia: <6/5/2021> trabajo 4 segundos
+Reporte generado el Jueves 6/5/2021
+El trabajador con el pin <2> entro a la hora: <2:34:39> el dia: <6/5/2021> trabajo 6 segundos
+Reporte generado el Jueves 6/5/2021
+El trabajador con el pin <3> entro a la hora: <4:39:34> el dia: <6/5/2021> trabajo 3 segundos
+Reporte generado el Jueves 6/5/2021
+El trabajador con el pin <4> entro a la hora: <5:40:23> el dia: <6/5/2021> trabajo 5 segundos
+Reporte generado el Jueves 6/5/2021
+El trabajador con el pin <5> entro a la hora: <6:23:33> el dia: <6/5/2021> trabajo 4 segundos
