@@ -1,0 +1,14 @@
+El usuario <Gaby> con el pin <1> debe entrar a las: 13:50 debe trabajar durante <22 segundos> los dias:
+domingo lunes martes jueves sabado 
+
+El usuario <Luis> con el pin <2> debe entrar a las: 15:30 debe trabajar durante <15 segundos> los dias:
+domingo lunes miercoles jueves viernes 
+
+El usuario <Erika> con el pin <3> debe entrar a las: 15:20 debe trabajar durante <10 segundos> los dias:
+domingo miercoles jueves 
+
+El usuario <Elian> con el pin <4> debe entrar a las: 16:34 debe trabajar durante <11 segundos> los dias:
+domingo lunes miercoles jueves sabado 
+
+El usuario <Jorge> con el pin <5> debe entrar a las: 12:26 debe trabajar durante <14 segundos> los dias:
+domingo lunes martes jueves sabado 
