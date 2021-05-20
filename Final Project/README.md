@@ -25,5 +25,9 @@ d)  **Follow-up appointments:** The system will give also schedule
 
 e)  **Capacity:** The program will only schedule 30% of the total
     capacity of the gym each hour.
+    
+    
 **Help videos:**https://youtu.be/3RHvNBGQ3dM and https://youtu.be/qYriOJEw6Zw
-CF: 12 of 15 
+
+
+**CF: 12 of 15** 
