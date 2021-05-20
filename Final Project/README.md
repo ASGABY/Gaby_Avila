@@ -30,7 +30,7 @@ e)  **Capacity:** The program will only schedule 30% of the total
 **Help videos:**https://youtu.be/3RHvNBGQ3dM, https://youtu.be/a03dW_74xfs and https://youtu.be/qYriOJEw6Zw
 
 
-**CF: 11 of 15
+**CF: 12 of 15
 1: complejidad 2 (me base en la tarea 8 al hacer las matrices).
 
 2: funcionalidad 3 (me da los datos que originalmente puse que haria).
