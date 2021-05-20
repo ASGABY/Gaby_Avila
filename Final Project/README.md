@@ -30,4 +30,9 @@ e)  **Capacity:** The program will only schedule 30% of the total
 **Help videos:**https://youtu.be/3RHvNBGQ3dM, https://youtu.be/a03dW_74xfs and https://youtu.be/qYriOJEw6Zw
 
 
-**CF: 10 of 15** 
+**CF: 12 of 15
+1: complejidad 2 (en si es un codigo muy sencillo pude mejorar esta parte)
+2: funcionalidad 3 (funciona exactamente como pretendia pero se podria mejorar)
+3: código 2 (siento que esta bien organizado y comentado, facil de entender)
+4: almacenaje 3 (yo creo que pude mejorar esta parte)
+5: documentación 2 (no presenta errores de ortografia)** 
