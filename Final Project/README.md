@@ -30,12 +30,12 @@ e)  **Capacity:** The program will only schedule 30% of the total
 **Help videos:**https://youtu.be/3RHvNBGQ3dM, https://youtu.be/a03dW_74xfs and https://youtu.be/qYriOJEw6Zw
 
 
-**CF: 12 of 15
+**CF: 11 of 15
 1: complejidad 2 (me base en la tarea 8 al hacer las matrices).
 
 2: funcionalidad 3 (me da los datos que originalmente puse que haria).
 
-3: código 3 (siento que es facil de entender ).
+3: código 2 (siento que es facil de entender, pero algunas cosas inecesarias que no supe como omitir).
 
 4: almacenaje 3 (almacena lo dispensable para el programa).
 
