@@ -165,7 +165,7 @@ void Signup()
         scanf("%d,%d", &Plan1, &Plan2);
     }while(Plan1+Plan2==0||Plan1!=1&&Plan2!=2);
     
-    printf("Succesful registration\n\n");
+    printf("Succesful registration\n Remember that the following-up appointments will be weekly on Friday's at the end of your routine\n");
     
     FILE* registeronsystem = fopen("system.txt", "a");
     fprintf(registeronsystem, "%d %s %d %d %d %d %d %d %d %d %d %d\n",pin, user, Monday, Tuesday, Wednesday, Thursday,Friday,Saturday,Sunday, hour, min, trainningplan);
