@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-#include "registros.h"
+#include "registers.h"
 
 int main()
 {
