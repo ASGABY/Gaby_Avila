@@ -31,8 +31,12 @@ e)  **Capacity:** The program will only schedule 30% of the total
 
 
 **CF: 12 of 15
-1: complejidad 2 (en si es un codigo muy sencillo pude mejorar esta parte)
-2: funcionalidad 3 (funciona exactamente como pretendia pero se podria mejorar)
-3: código 2 (siento que esta bien organizado y comentado, facil de entender)
-4: almacenaje 3 (yo creo que pude mejorar esta parte)
-5: documentación 2 (no presenta errores de ortografia)** 
+1: complejidad 2 (me base en la tarea 8 al hacer las matrices).
+
+2: funcionalidad 3 (me da los datos que originalmente puse que haria).
+
+3: código 3 (siento que es facil de entender ).
+
+4: almacenaje 3 (almacena lo dispensable para el programa).
+
+5: documentación 2 (la calidad del video es baja)** 
