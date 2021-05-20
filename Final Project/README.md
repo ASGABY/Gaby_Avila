@@ -30,4 +30,4 @@ e)  **Capacity:** The program will only schedule 30% of the total
 **Help videos:**https://youtu.be/3RHvNBGQ3dM, https://youtu.be/a03dW_74xfs and https://youtu.be/qYriOJEw6Zw
 
 
-**CF: 12 of 15** 
+**CF: 10 of 15** 
