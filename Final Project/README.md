@@ -1,6 +1,6 @@
 FINAL PROJECT: GYM AGENDA
 =========================
-
+**Explanation video:**
 ***Main idea:*** a program dedicated to scheduling gym clients that can
 help in the pandemic to make a safe space and respecting the specified
 measurements due to COVID-19.
